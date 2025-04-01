@@ -20,10 +20,10 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Adoro criar soluç�
 
 ### 📊 Estatísticas do GitHub:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=victorgteixeira&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorgteixeira&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=victorgteixeira&theme=radical)
-![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=victorgteixeira)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=blueberry)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=blueberry)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seuusuario&theme=blueberry)
+![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=seuusuario&theme=blueberry)
 
 ### 📬 Contato:
 

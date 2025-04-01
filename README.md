@@ -25,9 +25,6 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Adoro criar soluç�
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=victorgteixeira&theme=radical)
 ![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=victorgteixeira)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=victorgteixeira&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorgteixeira&layout=compact&theme=radical)
-
 ### 📬 Contato:
 
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)]([https://seusite.com](https://victorgteixeira.com.br/))

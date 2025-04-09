@@ -22,7 +22,6 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Adoro criar soluç�
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=victorgteixeira&show_icons=true&theme=blueberry)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorgteixeira&layout=compact&theme=blueberry)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=victorgteixeira&theme=blueberry)
 ![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=victorgteixeira&theme=blueberry)
 
 ### 📬 Contato:

@@ -1,27 +1,14 @@
-## 👋 Olá! Eu sou o Victor
+# 👋 Olá, eu sou o Victor Teixeira  
 
-Sou um desenvolvedor apaixonado por tecnologia e inovação. Adoro criar soluções escaláveis e eficientes para web e mobile.
+💻 Desenvolvedor Full Stack | 🚀 Criando soluções modernas e eficientes  
 
-### 🚀 Tecnologias que utilizo:
+## ⚡ Habilidades
+- **Back-end:** Node.js (Nest.js), Django, Python, PostgreSQL, Prisma ORM, JWT, bcrypt  
+- **Front-end:** React.js, Next.js, Flutter, TailwindCSS  
+- **Outros:** Git/GitHub, Docker, Swagger, Integrações com APIs e SAP  
 
-- 🖥️ **Linguagens e Frameworks:**
-  - Dart & Flutter
-  - Node.js & JavaScript
-  - Django
-  - React & React Native
-  - TailwindCSS & HTML
-  - ABAP / CDS Views
-
-- 🛠 **Ferramentas e Tecnologias:**
-  - Git & GitHub
-  - API REST
-  - Banco de Dados (PostgreSQL, MySQL, Firebase)
-  - Postman
-
-### 📊 Estatísticas do GitHub:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=victorgteixeira&show_icons=true&theme=blueberry)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorgteixeira&layout=compact&theme=blueberry)
+---
+✨ Sempre aprendendo e aberto a novos desafios!
 
 ### 📬 Contato:
 

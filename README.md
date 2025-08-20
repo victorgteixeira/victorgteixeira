@@ -1,10 +1,10 @@
 # 👋 Olá, eu sou o Victor Teixeira  
 
-💻 Desenvolvedor Full Stack | 🚀 Criando soluções modernas e eficientes  
+💻 Desenvolvedor Full Stack 
 
 ## ⚡ Habilidades
-- **Back-end:** Node.js (Nest.js), Django, Python, PostgreSQL, Prisma ORM, JWT, bcrypt  
-- **Front-end:** React.js, Next.js, Flutter, TailwindCSS  
+- **Back-end:** Node.js (NestJS), Django, Python  
+- **Front-end:** React, Next.js, Flutter, TailwindCSS  
 - **Outros:** Git/GitHub, Docker, Swagger, Integrações com APIs e SAP  
 
 ---

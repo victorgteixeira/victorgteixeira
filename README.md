@@ -4,7 +4,7 @@
 
 ## ⚡ Habilidades
 - **Back-end:** Node.js (NestJS), Django, Python  
-- **Front-end:** React, Next.js, Flutter, TailwindCSS  
+- **Front-end:** React, Next.js, Flutter, TailwindCSS 
 - **Outros:** Git/GitHub, Docker, Swagger, Integrações com APIs e SAP  
 
 ---

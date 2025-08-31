@@ -10,7 +10,7 @@
 ---
 ✨ Sempre aprendendo e aberto a novos desafios!
 
-### 📬 Contato:
+### 📬 Contato: 
 
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)]([https://victorgteixeira.com.br](https://victorgteixeira.com.br/))
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/victorgteixeira](https://www.instagram.com/victorgteixeira))

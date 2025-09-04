@@ -1,6 +1,6 @@
-# 👋 Fala aí, eu sou o Victor!
+# 👋 Opa, eai!!
 
-🎮 Dev que divide o tempo entre código, café e partidas de Fortnite (modo Reloaded, porque construção é para arquitetos).  
+🎮 Sou um Dev que divide o tempo entre código, café e partidas de Fortnite (modo Reloaded, porque construção é para arquitetos).  
 🚀 Atualmente Desenvolvedor Full Stack no **Jaú Serve Supermercados**, mas também um eterno curioso que gosta de inventar soluções nerds para problemas do mundo real.  
 
 ---

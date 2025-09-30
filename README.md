@@ -13,7 +13,7 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 Sobre mim 
 Sou **Full‑Stack Developer** no Brasil, trabalhando com **Node.js (NestJS)**, **Prisma + PostgreSQL**, **mensageria com RabbitMQ**, **C#/ASP.NET** e integrações **SAP/ABAP**.  
 Gosto de **arquitetura limpa**, **DX** (developer experience) e soluções que escalam sem perder a simplicidade.
 

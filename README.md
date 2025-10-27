@@ -2,7 +2,7 @@
 <p align="center">
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=900&center=true&vCenter=true&width=900&lines=Ol%C3%A1%2C+eu+sou+o+Victor+Teixeira!+%F0%9F%91%8B;Full-Stack+Developer+%E2%80%A2+NestJS%2C+Prisma%2C+Flutter%2C+Django;Apaixonado+por+produtos%2C+dados+e+boas+arquiteturas;Bem-vindo+ao+meu+GitHub+%F0%9F%9A%80" alt="Typing SVG" />
 
-</p> 
+</p>
 
 <p align="center">
   <a href="https://victorgteixeira.com.br"><img src="https://img.shields.io/badge/Portf%C3%B3lio-victorgteixeira.com.br-0ea5e9?style=for-the-badge" /></a>

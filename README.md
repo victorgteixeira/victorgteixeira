@@ -1,9 +1,5 @@
 <!-- PROFILE HEADER -->
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2600&pause=900&center=true&vCenter=true&width=920&lines=Olá%2C+eu+sou+o+Victor+Teixeira!+%F0%9F%91%8B;Full-Stack+Developer+•+Node.js%2C+Prisma%2C+Flutter%2C+Django;Construindo+soluções+que+geram+impacto+real" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <a href="https://victorgteixeira.com.br"><img src="https://img.shields.io/badge/Portfólio-victorgteixeira.com.br-0ea5e9?style=for-the-badge" /></a>
   <a href="https://www.linkedin.com/in/victorteixeira18/"><img src="https://img.shields.io/badge/LinkedIn-@victorteixeira18-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:victorteixeira.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-victorteixeira.dev%40gmail.com-d93025?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -12,21 +8,21 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
 Sou **Full-Stack Developer**, trabalhando com soluções escaláveis usando **Node.js (NestJS)**, **Prisma + PostgreSQL**, mensageria com **RabbitMQ**, **Flutter** e **Django**.  
 Também tenho experiência com **integrações SAP/ABAP** e processos corporativos.
 
 Foco em:
-- Arquiteturas limpas, coesas e com propósito
-- Experiência do desenvolvedor e automação
-- Observabilidade e qualidade de software
+- Arquiteturas limpas, coesas e com propósito  
+- Automação e observabilidade  
+- Qualidade e experiência do desenvolvedor  
 
-Atualmente estudando **Salesforce Commerce Cloud (OCAPI/SCAPI)** e aprimorando práticas avançadas com **NestJS**.
+Atualmente estudando **Salesforce Commerce Cloud (OCAPI/SCAPI)** e práticas avançadas com **NestJS**.
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,express,prisma,postgres,mongodb,redis,rabbitmq,docker,nginx,python,django,cs,dotnet,flutter,react,tailwind,html,css,js,git,github,linux,bash&perline=12" />
@@ -34,42 +30,49 @@ Atualmente estudando **Salesforce Commerce Cloud (OCAPI/SCAPI)** e aprimorando p
 
 ---
 
-## 🚀 Projetos em Destaque
+## Projetos em Destaque
 
 <details>
-<summary><b>🧠 Joyce.AI — Assistente interno com IA</b></summary>
+<summary><b>Landing Page — JS Card (Jaú Serve)</b></summary>
+
+Site institucional do cartão JS Card com design otimizado, responsividade e melhorias de SEO  
+🔗 <a href="https://www.jscard.com.br">www.jscard.com.br</a>
+</details>
+
+<details>
+<summary><b>Joyce.AI — Assistente interno com IA</b></summary>
 
 Stack: Next.js + NestJS + Redis + RabbitMQ + PostgreSQL  
--> Fluxos assíncronos, autenticação JWT, RAG e deploy via Docker Compose  
+-> Fluxos assíncronos, RAG, JWT e containers Docker  
 </details>
 
 <details>
-<summary><b>📱 ScanPrice / JSHOPPING — Pesquisa de preços Web + Mobile</b></summary>
+<summary><b>ScanPrice / JSHOPPING — Pesquisa de preços Web + Mobile</b></summary>
 
--> Sync offline/online • Exportações CSV • Logs locais e upload posterior • Upload de fotos  
+-> Sync offline/online, exportações CSV, log local e upload de imagens  
 </details>
 
 <details>
-<summary><b>📄 Gestão de Contratos — Portal Django</b></summary>
+<summary><b>Gestão de Contratos — Portal Django</b></summary>
 
--> Anexos, dashboards, filtros e autorização por papéis  
+-> Dashboards, anexos, filtros e permissões de acesso  
 </details>
 
 <details>
-<summary><b>✅ Organix — Gestão de tarefas multiempresa</b></summary>
+<summary><b>Organix — Gestão de tarefas multiempresa</b></summary>
 
--> Papéis granularizados • Mensageria • Workflows e anexos  
+-> Workflows, roles customizados, mensageria e anexos  
 </details>
 
 <details>
-<summary><b>📦 GLAT Controlling — Controle de Estoque e Produção</b></summary>
+<summary><b>GLAT Controlling — Estoque e Produção</b></summary>
 
--> Produção atrelada a consumo de ingredientes + avarias + relatórios  
+-> Controle de produção com consumo automático e relatórios  
 </details>
 
 ---
 
-## 📊 Atividade
+## Atividade
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/victorgteixeira/victorgteixeira/output/snake.svg" alt="snake" />
@@ -77,16 +80,16 @@ Stack: Next.js + NestJS + Redis + RabbitMQ + PostgreSQL
 
 ---
 
-## 💡 Como eu trabalho
+## Como eu trabalho
 
-- Arquitetura limpa e código com propósito  
-- Padronização e documentação contínua  
-- Automação e pipelines para entrega constante  
-- Logs estruturados e monitoramento ativo  
+- Arquitetura focada em legibilidade e manutenção  
+- Logs estruturados e monitoramento contínuo  
+- Automação com pipelines e containers  
+- Documentação objetiva e evolutiva  
 
 ---
 
-## 🤝 Vamos Conversar?
+## Vamos conversar?
 
 <p align="center">
   <a href="mailto:victorteixeira.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Entrar%20em%20contato-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -95,7 +98,3 @@ Stack: Next.js + NestJS + Redis + RabbitMQ + PostgreSQL
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=1400&center=true&vCenter=true&width=750&lines=Clean+Code+•+Boas+práticas+•+Escalabilidade;Bora+criar+algo+incrível!+🚀" alt="Footer typing" />
-</p>

@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://victorgteixeira.com.br"><img src="https://img.shields.io/badge/Portfólio-victorgteixeira.com.br-0ea5e9?style=for-the-badge" /></a>
   <a href="https://www.linkedin.com/in/victorteixeira18/"><img src="https://img.shields.io/badge/LinkedIn-@victorteixeira18-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:victorteixeira.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-victorteixeira.dev%40gmail.com-d93025?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:victorteixeira.dev@outlook.com"><img src="https://img.shields.io/badge/Gmail-victorteixeira.dev%40gmail.com-d93025?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://wa.me/5514988233176"><img src="https://img.shields.io/badge/WhatsApp-(14)%2098823--3176-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
@@ -92,7 +92,7 @@ Stack: Next.js + NestJS + Redis + RabbitMQ + PostgreSQL
 ## Vamos conversar?
 
 <p align="center">
-  <a href="mailto:victorteixeira.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Entrar%20em%20contato-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:victorteixeira.dev@outlook.com"><img src="https://img.shields.io/badge/Email-Entrar%20em%20contato-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/victorteixeira18/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://wa.me/5514988233176"><img src="https://img.shields.io/badge/WhatsApp-Enviar%20mensagem-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>

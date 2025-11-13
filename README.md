@@ -45,18 +45,6 @@
 
 ---
 
-### 🟦 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=victorgteixeira&show_icons=true&theme=github_dark&hide_border=true&title_color=0ea5e9&icon_color=0ea5e9&text_color=ffffff" />
-</p>
-
-<p align="center">
-  <em>Building every day. One commit at a time.</em> 🟦
-</p>
-
----
-
 ### 🧰 Full Tech Stack
 
 <p align="center">

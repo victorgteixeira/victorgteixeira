@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Victor Teixeira 👋</h1> 
+<h1 align="center">Hello, I'm Victor Teixeira</h1> 
 
 <p align="center">
   <em>Full Stack Developer • SAP/ABAP Developer • Cloud & Mobile Engineer</em>
@@ -28,7 +28,7 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
 - 🔭 Full Stack Developer at **Jaú Serve Supermercados**  
 - 📱 Creator of **ScanPrice** (offline-first Flutter + Node.js)
@@ -37,7 +37,7 @@
 
 ---
 
-### 💻 Tech Stack Highlights
+### Tech Stack Highlights
 
 <p align="center">
   <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorgteixeira&layout=compact&hide_border=true&title_color=0ea5e9&text_color=ffffff&bg_color=0d1117" />
@@ -45,7 +45,7 @@
 
 ---
 
-### 🧰 Full Tech Stack
+### Full Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,express,prisma,postgres,mongodb,redis,rabbitmq,docker,nginx,python,django,cs,dotnet,flutter,react,tailwind,html,css,js,git,github,linux,bash&perline=12" />
@@ -53,7 +53,7 @@
 
 ---
 
-### 🐍 Commit Snake
+### Commit Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/victorgteixeira/victorgteixeira/output/snake.svg" alt="snake"/>

@@ -48,7 +48,7 @@
 ### Full Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,express,prisma,postgres,mongodb,redis,rabbitmq,docker,nginx,python,django,cs,dotnet,flutter,react,tailwind,html,css,js,git,github,linux,bash&perline=12" />
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,express,prisma,postgres,mongodb,redis,rabbitmq,docker,nginx,python,django,flutter,react,tailwind,html,css,js,git,github,linux,bash&perline=12" />
 </p>
 
 ---

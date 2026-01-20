@@ -27,18 +27,17 @@ Desenvolvedor Full Stack no **Jaú Serve Supermercados**, atuando em um ecossist
 - **Cloud & DevOps** com Docker, Nginx, Redis, RabbitMQ, PostgreSQL  
 - **Arquitetura e Sincronização Offline**, conectando mobile ao backend com resiliência
 
-🎓 Graduado em Engenharia de Software  
-🚀 Apaixonado por tecnologia e por criar produtos que resolvem problemas reais
+🎓 Graduado em Engenharia de Software 
 
 ---
 
-## 🧠 O Que Me Move
+## 🧠 O Que eu amo nos projetos
 
-- Arquitetura limpa
+- Uma boa Arquitetura 
 - Desenvolvimento end-to-end  
-- Automação, performance e produtividade  
+- Automação e performance  
 - Uso de IA (ChatGPT, Gemini, Copilot) para acelerar entregas  
-- Aprender novas tecnologias e aplicá-las em projetos reais  
+- Novas tecnologias em projetos reais  
 
 ---
 

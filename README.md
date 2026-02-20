@@ -7,7 +7,6 @@
 [![GitHub stars](https://img.shields.io/github/stars/victorgteixeira?logo=github&style=flat)](https://github.com/victorgteixeira)
 
 ### Desenvolvedor Full Stack • SAP/ABAP/RAP/CDS • Cloud & Mobile Engineer  
-Criando experiências digitais modernas com Node.js, NestJS, Flutter, SAP ABAP e Cloud.
 
 </div>
 
@@ -21,22 +20,21 @@ Criando experiências digitais modernas com Node.js, NestJS, Flutter, SAP ABAP e
 
 Desenvolvedor Full Stack no **Jaú Serve Supermercados**, atuando em um ecossistema tecnológico que envolve:
 
-- **Node.js / NestJS** para APIs modernas e escaláveis  
-- **Flutter** para apps offline-first (criador do *ScanPrice*)  
-- **SAP/ABAP** para integrações, automações e rotinas corporativas  
+- **Node.js / NestJS** para APIs
+- **Flutter** para apps (criador do *ScanPrice*)  
+- **SAP/ABAP** para integrações, automações e rotinas  
 - **Cloud & DevOps** com Docker, Nginx, Redis, RabbitMQ, PostgreSQL  
-- **Arquitetura e Sincronização Offline**, conectando mobile ao backend com resiliência
 
 🎓 Graduado em Engenharia de Software 
+🎓 Graduado em Gestão de T.I
 
 ---
 
-## 🧠 O Que eu amo nos projetos
+## 🧠 O que me estiga em tecnologias
 
-- Uma boa Arquitetura 
-- Desenvolvimento end-to-end  
-- Automação e performance  
-- Uso de IA (ChatGPT, Gemini, Copilot) para acelerar entregas  
+- Inovações
+- Ver as pessoas usarem o que criei
+- O avanço da I.A
 - Novas tecnologias em projetos reais  
 
 ---
